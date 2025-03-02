@@ -1,0 +1,162 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "aRk3tgg2EJk",
+      "rooms" : [ {
+        "id" : "h26t7ky77ew74yb0pg8qqf5rd",
+        "meshId" : 6,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : 9.416010424537658,
+          "width" : 12.383560735883712,
+          "depth" : 11.466989890413284,
+          "areaFloor" : 145.80348316659928
+        },
+        "tags" : [ "bedroom" ]
+      }, {
+        "id" : "tt6gm2a0463x9wmnx7rn6gugc",
+        "meshId" : 5,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : 9.284776949691773,
+          "width" : 13.453586951313019,
+          "depth" : 15.783864248542786,
+          "areaFloor" : 241.77872065029143
+        },
+        "tags" : [ "other" ]
+      }, {
+        "id" : "b4qtykzcazp4iumkamm7y7h2b",
+        "meshId" : 12,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : 7.578740212268829,
+          "width" : 8.238206179609298,
+          "depth" : 5.195124578390121,
+          "areaFloor" : 41.52712663114071
+        },
+        "tags" : [ "bathroom" ]
+      }, {
+        "id" : "3m54yff1z7crxaywd8if9rb0d",
+        "meshId" : 7,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : null,
+          "width" : 4.0045143298768995,
+          "depth" : 11.698226977653503,
+          "areaFloor" : 90.60727902622223
+        },
+        "tags" : [ "bathroom" ]
+      }, {
+        "id" : "a5f9age4zzxewres6iqux2emc",
+        "meshId" : 9,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : 9.087926737422944,
+          "width" : 13.402320697460175,
+          "depth" : 7.123287183570862,
+          "areaFloor" : 103.57455441493988
+        },
+        "tags" : [ "outdoor_other" ]
+      }, {
+        "id" : "cdz3fkt38kae7tapstpt0eaeb",
+        "meshId" : 3,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : 9.317585318403244,
+          "width" : 18.88833707141876,
+          "depth" : 11.556212258119583,
+          "areaFloor" : 224.66949700145722
+        },
+        "tags" : [ "bedroom" ]
+      }, {
+        "id" : "xy2x8mpaaqknp7q2c3nnbw1ma",
+        "meshId" : 4,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : null,
+          "width" : 7.834918949956894,
+          "depth" : 7.138347916736603,
+          "areaFloor" : 255.89664899959564
+        },
+        "tags" : [ "hallway" ]
+      }, {
+        "id" : "2qdmc5i9byxi79ry1pxdkqzea",
+        "meshId" : 8,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : 9.2519685809803,
+          "width" : 5.501668069205284,
+          "depth" : 20.554177436351775,
+          "areaFloor" : 99.76305497770309
+        },
+        "tags" : [ "outdoor_other" ]
+      }, {
+        "id" : "m8npxsuk79xy21dd09x9wtped",
+        "meshId" : 11,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : 7.611548580980301,
+          "width" : 8.23385863858223,
+          "depth" : 5.1010231557798384,
+          "areaFloor" : 44.64973250598907
+        },
+        "tags" : [ "bathroom" ]
+      }, {
+        "id" : "19ab05tns5h6y4qm42esqqpea",
+        "meshId" : 10,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : 7.349081631288528,
+          "width" : 9.096682049894333,
+          "depth" : 6.1422901291847225,
+          "areaFloor" : 57.438325733995434
+        },
+        "tags" : [ "bathroom" ]
+      }, {
+        "id" : "613htqkzf66zz7hf7n8kzszed",
+        "meshId" : 2,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : 9.284776949691773,
+          "width" : 12.331341746339797,
+          "depth" : 33.63861294254303,
+          "areaFloor" : 613.6047127502441
+        },
+        "tags" : [ "bedroom" ]
+      } ]
+    }
+  }
+}

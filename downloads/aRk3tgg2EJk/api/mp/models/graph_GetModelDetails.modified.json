@@ -1,0 +1,125 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "aRk3tgg2EJk",
+      "name" : "F-2101, Rajpushpa",
+      "visibility" : "public",
+      "discoverable" : true,
+      "state" : "active",
+      "image" : {
+        "id" : "coENsApR3Au",
+        "label" : "02.28.2025_12.33.54",
+        "classification" : null,
+        "category" : "snapshot",
+        "height" : 1707,
+        "width" : 3034,
+        "created" : "2025-02-28T07:03:57Z",
+        "modified" : "2025-02-28T07:03:57Z",
+        "status" : "available",
+        "filename" : "02282025_123354.jpg",
+        "format" : "image",
+        "url" : "https://cdn-2.matterport.com/apifs/models/aRk3tgg2EJk/images/coENsApR3Au/02.28.2025_12.33.54.jpg?t=2-aa98f3eea173b6b3776b6051546c8ae243ad5e33-1740889837-1",
+        "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
+        "type" : "photo2D",
+        "origin" : "user",
+        "validUntil":"2099-01-01T04:30:37Z",
+        "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/aRk3tgg2EJk/images/coENsApR3Au/02.28.2025_12.33.54.jpg?t=2-aa98f3eea173b6b3776b6051546c8ae243ad5e33-1740889837-1&width=200&height=140&fit=crop&disable=upscale",
+        "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/aRk3tgg2EJk/images/coENsApR3Au/02.28.2025_12.33.54.jpg?t=2-aa98f3eea173b6b3776b6051546c8ae243ad5e33-1740889837-1&width=1920&height=1080&fit=crop&disable=upscale",
+        "snapshotLocation" : {
+          "viewMode" : "panorama",
+          "position" : {
+            "x" : -0.05377025529742241,
+            "y" : -0.17546696960926056,
+            "z" : 1.692483901977539
+          },
+          "rotation" : {
+            "x" : -0.7721931615264688,
+            "y" : -0.022508604821325474,
+            "z" : 0.01850139320534836,
+            "w" : 0.6347194517514778
+          },
+          "zoom" : 1.0,
+          "floorVisibility" : [ {
+            "id" : "tsmq1wak12rhgn0mawksxcwcd",
+            "meshId" : 0,
+            "sequence" : 0
+          } ],
+          "anchor" : {
+            "id" : "abaw28r7qanad93ra5m7emyya",
+            "pano" : {
+              "id" : "abaw28r7qanad93ra5m7emyya",
+              "placement" : "auto"
+            }
+          }
+        }
+      },
+      "publication" : {
+        "address" : "Hyderabad 500089, Telangana, IN",
+        "published" : true,
+        "lastPublished" : null,
+        "presentedBy" : "",
+        "summary" : "",
+        "description" : "",
+        "externalUrl" : null,
+        "contact" : {
+          "name" : "",
+          "email" : "",
+          "phoneNumber" : null
+        }
+      },
+      "options" : {
+        "urlBrandingEnabled" : true,
+        "socialSharingEnabled" : true,
+        "vrEnabled" : true
+      },
+      "assets" : {
+        "meshes" : [ {
+          "id" : "meshes/4p9xx0c50h2phh3uys0wy6xab",
+          "status" : "available",
+          "filename" : "18b07a1d8f294e8089f6ab74906bc576_50k.dam",
+          "format" : "dam",
+          "resolution" : "50k",
+          "url" : "https://cdn-2.matterport.com/models/5afa7b62fd8d44318b4ad7d059cab7db/assets/18b07a1d8f294e8089f6ab74906bc576_50k.dam?t=2-49b8010133d5a98e017fea1de134bf0f4488f490-1740889837-1",
+          "validUntil":"2099-01-01T04:30:37Z"
+        } ],
+        "textures" : [ {
+          "id" : "50k-low",
+          "status" : "available",
+          "format" : "jpg",
+          "resolution" : "50k",
+          "quality" : "low",
+          "urlTemplate" : "https://cdn-2.matterport.com/models/5afa7b62fd8d44318b4ad7d059cab7db/assets/~/18b07a1d8f294e8089f6ab74906bc576_50k_texture_jpg_low/18b07a1d8f294e8089f6ab74906bc576_50k_<texture>.jpg?t=2-16d5552b80c0453ac49de4e8391e18172717b82c-1740889837-0&k=models%2F5afa7b62fd8d44318b4ad7d059cab7db%2Fassets",
+          "validUntil":"2099-01-01T04:30:37Z"
+        }, {
+          "id" : "50k-high",
+          "status" : "available",
+          "format" : "jpg",
+          "resolution" : "50k",
+          "quality" : "high",
+          "urlTemplate" : "https://cdn-2.matterport.com/models/5afa7b62fd8d44318b4ad7d059cab7db/assets/~/18b07a1d8f294e8089f6ab74906bc576_50k_texture_jpg_high/18b07a1d8f294e8089f6ab74906bc576_50k_<texture>.jpg?t=2-16d5552b80c0453ac49de4e8391e18172717b82c-1740889837-0&k=models%2F5afa7b62fd8d44318b4ad7d059cab7db%2Fassets",
+          "validUntil":"2099-01-01T04:30:37Z"
+        } ],
+        "tilesets" : [ {
+          "status" : "available",
+          "tilesetVersion" : "1.2.0",
+          "url" : "https://cdn-2.matterport.com/models/5afa7b62fd8d44318b4ad7d059cab7db/assets/mesh_tiles/~/tileset.json?t=2-62cf5e0c71e4b9b374783473c7001b1e5dd9dfb9-1740889837-1&k=models%2F5afa7b62fd8d44318b4ad7d059cab7db%2Fassets%2Fmesh_tiles",
+          "urlTemplate" : "https://cdn-2.matterport.com/models/5afa7b62fd8d44318b4ad7d059cab7db/assets/mesh_tiles/~/<file>?t=2-62cf5e0c71e4b9b374783473c7001b1e5dd9dfb9-1740889837-1&k=models%2F5afa7b62fd8d44318b4ad7d059cab7db%2Fassets%2Fmesh_tiles",
+          "validUntil":"2099-01-01T04:30:37Z",
+          "tilesetDepth" : 3,
+          "tilesetPreset" : "basic2"
+        } ]
+      },
+      "lod" : {
+        "options" : [ "lod2" ]
+      },
+      "overlayLayers" : [ ],
+      "baseView" : {
+        "model" : {
+          "id" : "aRk3tgg2EJk"
+        }
+      },
+      "defurnishViews" : [ ],
+      "legacyBaseView" : null
+    }
+  }
+}
